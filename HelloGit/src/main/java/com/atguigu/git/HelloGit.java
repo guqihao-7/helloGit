@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("Hello Git!");
         System.out.println("update1");
         System.out.println("branches");
+        System.out.println("主干添加");
     }
 }
